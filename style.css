@@ -10,3 +10,8 @@
     background-color: blueviolet;
     color:black
 }
+.principal-imagem{
+    /*Dimensões da imagem: largura e altura 300 pixels*/
+    width: 300px;
+    height: 300px;
+}
